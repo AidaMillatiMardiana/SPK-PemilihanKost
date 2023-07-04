@@ -172,24 +172,6 @@ echo "</pre>";
 	<br>
 	<br>
 	<br>
-	<!-- <table border="0" width='80%' align="center">
-		<tr>
-			<td colspan="3" align="right">Bandung, <?php echo date('d-M-Y'); ?></td>
-		</tr>
-		<tr>
-			<td colspan="3" align="right">-- Jabatan --</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td>&nbsp;</td>
-		</tr>
-		<tr>
-			<td colspan="3" align="right">-- Nama & TTD --</td>
-		</tr>
-	</table> -->
-
 	<br>
 	<br>
 	<br>
